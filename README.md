@@ -5,12 +5,19 @@ Hi, there! I'm Minho Jang. I majored in Political Science in college and changed
 
 ---
 ### 🔥 Programming Skill
-* Frontend : Vanila JS(ES6), VueJS, NGINX, HTML5, CSS3
-* Backend : Spring Boot, Spring JPA, Spring Cloud (Java) / Django, Flask (Python)
+* Frontend : Vanila JS(ES6), VueJS,  HTML5, CSS3
+* Backend : NGINX, Spring Boot, Spring JPA, Spring Cloud (Java) / Django, Flask (Python)
 * DB : MySQL, PostgreSQL
 * DevOps : AWS EC2, S3, Jenkins, Docker
 * Data Analysis & Deep-Learning : Pandas, Tensorflow
 * Tool : Jira, Slack
+
+---
+### ☁️ Career
+  ***2021***
+  
+  Backend Develop Intern @[Miridih](https://www.miricanvas.com/)
+
 
 ---
 ### ☁️ Projects
